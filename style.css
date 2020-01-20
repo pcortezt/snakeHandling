@@ -1,0 +1,13 @@
+body{
+    background-image: url(navyJack.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center center;
+    background-attachment: fixed;
+    }
+
+    audio {
+        width: 0px;
+        height: 0px;
+    }
